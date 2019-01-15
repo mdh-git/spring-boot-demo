@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: biz.paluch.logging.lcb:logstash-gelf:1.8.1-fix">
+    <CLASSES>
+      <root url="jar://D:/repository/biz/paluch/logging/lcb/logstash-gelf/1.8.1-fix/logstash-gelf-1.8.1-fix.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/repository/biz/paluch/logging/lcb/logstash-gelf/1.8.1-fix/logstash-gelf-1.8.1-fix-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/repository/biz/paluch/logging/lcb/logstash-gelf/1.8.1-fix/logstash-gelf-1.8.1-fix-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
